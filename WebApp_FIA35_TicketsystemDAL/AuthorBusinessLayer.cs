@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WebApp_FIA35_TicketsystemDAL;
+using WebApp_FIA35_TicketsystemDAL.Models;
 
 namespace Con_FIA35_DAL
 {
